@@ -13,7 +13,7 @@ This security policy applies to:
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.** 
 
-To report a security issue, please email our security team directly at **security@objectsxl.com**. 
+To report a security issue, please **[contact us immediately](https://www.objectsxl.com/#inquiry)**. 
 
 When submitting a report, please include as much of the following information as possible:
 * A detailed description of the vulnerability and its potential impact.
