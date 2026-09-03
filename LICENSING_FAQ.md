@@ -21,4 +21,4 @@ We strictly prohibit enterprises from reselling, redistributing, or reverse-engi
 Yes. We understand that advanced robotics, autonomous vehicle simulation, and multi-modal AI projects often have unique legal and compliance requirements. Our legal team can draft custom licensing riders to accommodate specific enterprise architectures.
 
 ---
-*For inquiries regarding custom enterprise licensing or studio agreements, please contact [legal@objectsxl.com](mailto:legal@objectsxl.com) or reach out via our [website](https://www.objectsxl.com/).*
+*For inquiries regarding custom enterprise licensing or studio agreements, please [contact us directly](https://www.objectsxl.com/#inquiry).*
