@@ -21,9 +21,6 @@ When submitting a report, please include as much of the following information as
 * Step-by-step instructions to reproduce the issue.
 * Any relevant logs, screenshots, or proof-of-concept code.
 
-### Encrypted Communications
-If your report contains highly sensitive information, you may encrypt your email using our public PGP key: `[Link to PGP key or key fingerprint]`.
-
 ## Our Response Process
 
 1. **Acknowledgment:** You will receive an acknowledgment of your report from our security team within 48 hours.
