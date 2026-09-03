@@ -44,9 +44,9 @@ We provide the spatial intelligence necessary to train the next generation of wo
 
 Connect with our business development team to secure dataset licensing, or explore opportunities to monetize your studio's 3D assets securely.
 
-* **Enterprises & Researchers:** [Purchase AI Training Datasets](https://www.objectsxl.com/)
-* **3D Studios & Creators:** [Provide / License Studio 3D Assets](https://www.objectsxl.com/)
-* **General Inquiries:** [General Partnership](https://www.objectsxl.com/)
+* **Enterprises & Researchers:** [Purchase AI Training Datasets](https://www.objectsxl.com/#inquiry)
+* **3D Studios & Creators:** [Provide / License Studio 3D Assets](https://www.objectsxl.com/#inquiry)
+* **General Inquiries:** [General Partnership](https://www.objectsxl.com/#inquiry)
 
 <br/>
 
