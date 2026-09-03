@@ -6,14 +6,14 @@ Thank you for your interest in ObjectsXL. To ensure your inquiry reaches the cor
 
 If you are an enterprise, research organization, or AI developer looking to purchase or license machine-ready spatial datasets, please reach out to our business development team directly.
 
-* **Contact Sales:** [Submit an Inquiry](https://www.objectsxl.com/contact)
+* **Contact Sales:** [Submit an Inquiry](https://www.objectsxl.com/#inquiry)
 * **Website:** [www.objectsxl.com](https://www.objectsxl.com/)
 
 ## Studio Partnerships & Asset Provisioning
 
 If you represent a 3D studio or are a creator interested in securely licensing your assets through the ObjectsXL platform, we want to hear from you.
 
-* **Partner with Us:** [Select "Providing/Licensing Studio 3D Assets"](https://www.objectsxl.com/contact)
+* **Partner with Us:** [Select "Providing/Licensing Studio 3D Assets"](https://www.objectsxl.com/#inquiry)
 
 ## Technical Support (GitHub Repositories)
 
