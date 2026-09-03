@@ -24,4 +24,7 @@ Spatial data often captures the real world. For modalities like HDRIs, NeRFs, ph
 
 We are committed to ongoing dialogue with both the AI research community and the 3D graphics industry to evolve our standards as technology advances. 
 
-If you have questions about our curation process, suspect an intellectual property violation, or wish to audit your studio's data inclusion, please contact us directly at **ethics@objectsxl.com**.
+If you have questions about our curation process, suspect an intellectual property violation, or wish to audit your studio's data inclusion, please **[contact us directly](https://www.objectsxl.com/#inquiry)**.
+
+
+
