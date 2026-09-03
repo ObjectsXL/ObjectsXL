@@ -19,7 +19,7 @@ If you represent a 3D studio or are a creator interested in securely licensing y
 
 For technical questions, bug reports, or feature requests regarding the open-source schemas, pipeline utilities, or documentation hosted in this GitHub organization:
 
-1. **Search Existing Issues:** Before opening a new issue, please check the repository's [Issue Tracker](#) to see if it has already been addressed.
+1. **Search Existing Issues:** Before opening a new issue, please check the repository's [Issue Tracker](https://github.com/ObjectsXL/ObjectsXL/issues) to see if it has already been addressed.
 2. **Open a New Issue:** If your issue is unresolved, please open a new issue with a clear title, a detailed description, and steps to reproduce any bugs. 
 3. **Discussions:** For general technical questions, integration advice, or community discussions, please use the repository's [Discussions](#) tab (if enabled).
 
