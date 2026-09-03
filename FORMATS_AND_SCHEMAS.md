@@ -39,7 +39,5 @@ Our standard schema guarantees the following structured data points:
 
 Because our assets adhere strictly to these formats and schemas, integrating ObjectsXL datasets into your AI workflow is straightforward. 
 
-*(Note: As we expand this GitHub organization, we will release open-source Python validation scripts and PyTorch/TensorFlow data loader snippets designed to consume our metadata schemas natively.)*
-
 ---
 *For technical support regarding our schemas or format integration, please open a Discussion in this repository or refer to our [SUPPORT.md](SUPPORT.md).*
