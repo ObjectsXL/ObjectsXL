@@ -36,7 +36,6 @@ We provide the spatial intelligence necessary to train the next generation of wo
 
 ## 📂 What You Will Find in This Organization
 
-*(As we grow, this GitHub organization will host our public-facing tools and documentation, including:)*
 * **Open-Source Metadata Schemas:** The specifications and taxonomies we use to structure spatial data.
 * **Integration Tools & APIs:** Code snippets and SDKs for fetching, loading, and validating ObjectsXL datasets in your training pipelines.
 * **Pipeline Utilities:** Scripts for managing interoperability across complex 3D file formats.
